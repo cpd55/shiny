@@ -1,0 +1,8 @@
+name: shinyproject
+account: cpdsh
+server: shinyapps.io
+bundleId: 359346
+url: https://cpdsh.shinyapps.io/shinyproject/
+when: 1453845178.44087
+asMultiple: FALSE
+asStatic: FALSE
